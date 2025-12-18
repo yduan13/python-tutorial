@@ -203,6 +203,7 @@ Here is a video recording of the live tutorial covering "Reading a .txt File":
 
    <iframe width="560" height="315" src="https://www.youtube.com/embed/Jog7ybd6amw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+https://www.youtube.com/watch?v=Jog7ybd6amw&t=3s
 ..
 
 .. seealso::
