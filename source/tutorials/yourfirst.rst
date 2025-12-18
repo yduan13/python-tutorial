@@ -1437,8 +1437,10 @@ repository to GitHub.
 
 .. seealso::
 
-   - `User defined functions <https://docs.python.org/3/reference/compound_stmts.html#function-definitions>`_
-   - `String formatting <https://docs.python.org/3/library/string.html#format-string-syntax>`_
+   User defined functions 
+   https://docs.python.org/3/reference/compound_stmts.html#function-definitions
+   String formatting 
+   https://docs.python.org/3/library/string.html#format-string-syntax
 
 ..
 
@@ -1453,7 +1455,8 @@ to learn any package you think may be useful for your scientific analysis.
 
 .. seealso::
 
-   `Questions and Answers from the live "First Python Package" tutorials <https://ncar.github.io/xdev/posts/your-first-package-python-tutorial-faq/>`_.
+   Questions and Answers from the live "First Python Package" tutorials 
+   https://ncar.github.io/xdev/posts/your-first-package-python-tutorial-faq
 
 ..
 
