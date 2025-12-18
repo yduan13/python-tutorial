@@ -208,7 +208,8 @@ https://www.youtube.com/watch?v=Jog7ybd6amw&t=3s
 
 .. seealso::
 
-   `Questions and Answers from the live "Reading a .txt File" tutorial <https://ncar.github.io/xdev/posts/python-tutorial-faq/>`_.
+   Questions and Answers from the live "Reading a .txt File" tutorial 
+https://ncar.github.io/xdev/posts/python-tutorial-faq
 https://github.com/yduan13/esds/blob/main/posts/2020/python-tutorial-faq.md
 ..
 
@@ -261,7 +262,8 @@ Let's begin.
 
    .. seealso::
 
-More information on Conda environments https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
+   More information on Conda environments 
+   https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
 
    ..
 
@@ -496,7 +498,8 @@ More information on Conda environments https://docs.conda.io/projects/conda/en/l
 
     .. seealso::
 
-       `More information on the open() function <https://docs.python.org/3/library/functions.html#open>`_
+       More information on the open() function 
+       https://docs.python.org/3/library/functions.html#open
 
     ..
 
@@ -685,8 +688,9 @@ also used fundamental git commands such as :bash:`git init`, :bash:`git status`,
     Git repositories 
     https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository
     The open() function 
-   https://docs.python.org/3/library/functions.html#open
-   Context managers <https://book.pythontips.com/en/latest/context_managers.html
+    https://docs.python.org/3/library/functions.html#open
+    Context managers 
+    https://book.pythontips.com/en/latest/context_managers.html
 
 ..
 
@@ -707,11 +711,14 @@ Here is a video recording of the live tutorial covering "Creating a Data Diction
 
    <iframe width="560" height="315" src="https://www.youtube.com/embed/5z6-t62x7Xs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Creating a Data Dictionary
+https://www.youtube.com/watch?v=5z6-t62x7Xs&t=1s
 ..
 
 .. seealso::
 
-   `Questions and Answers from the live "Creating a Data Dictionary" tutorial <https://ncar.github.io/xdev/posts/python-tutorial-faq-part-2/>`_.
+   Questions and Answers from the live "Creating a Data Dictionary" tutorial 
+   https://ncar.github.io/xdev/posts/python-tutorial-faq-part-2/
 
 ..
 
@@ -805,7 +812,8 @@ Let's begin.
 
       More information on for-loops 
       https://book.pythontips.com/en/latest/for_-_else.html
-      More information on Python lists <https://docs.python.org/3/tutorial/datastructures.html#more-on-lists
+      More information on Python lists 
+      https://docs.python.org/3/tutorial/datastructures.html#more-on-lists
 
    ..
 
@@ -1108,6 +1116,7 @@ function and learning about basic math operators.
 
 
 Here is a video recording of the live tutorial covering "Writing Functions":
+https://www.youtube.com/watch?v=BerEf_3CsL8&t=2s
 
 .. raw:: html
 
@@ -1118,7 +1127,8 @@ Here is a video recording of the live tutorial covering "Writing Functions":
 .. seealso::
 
    
-   `Question and Answers from the live "Writing Functions" tutorial <https://ncar.github.io/xdev/posts/python-tutorial-faq-part-3/>`_.
+   Question and Answers from the live "Writing Functions" tutorial 
+   https://ncar.github.io/xdev/posts/python-tutorial-faq-part-3/
 
 ..
 
@@ -1202,7 +1212,8 @@ Let's begin.
 
    .. seealso::
 
-      `More on user defined functions <https://docs.python.org/3/reference/compound_stmts.html#function-definitions>`_
+      More on user defined functions 
+      https://docs.python.org/3/reference/compound_stmts.html#function-definitions
 
    ..
 
@@ -1304,7 +1315,8 @@ Let's begin.
 
    .. seealso::
 
-      `More on string formatting <https://docs.python.org/3/library/string.html#format-string-syntax>`_
+      More on string formatting 
+      https://docs.python.org/3/library/string.html#format-string-syntax
 
    ..
 
@@ -1480,6 +1492,7 @@ is free!
 
 
 Here is a video recording of the live tutorial covering "Creating Your Own Package":
+https://www.youtube.com/watch?v=6lbbTwGFcTc
 
 .. raw:: html
 
@@ -2216,9 +2229,12 @@ comprehensions.
 
 .. seealso::
 
-   `More information on Python modules <https://docs.python.org/3/tutorial/modules.html>`_
-   `More information on on .gitignore <https://git-scm.com/docs/gitignore>`_
-   `More information on list comprehension <https://docs.python.org/3/tutorial/datastructures.html#list-comprehensions>`_
+   More information on Python modules 
+   https://docs.python.org/3/tutorial/modules.html
+   More information on on .gitignore 
+   https://git-scm.com/docs/gitignore
+   More information on list comprehension 
+   https://docs.python.org/3/tutorial/datastructures.html#list-comprehensions
 
 ..
 
@@ -2236,7 +2252,7 @@ Python, you already have access to these packages.  For this tutorial, we are go
 bit of the built-in :code:`math` package, which extends the computational capabilities beyond the basic math operators we've already covered.
 
 Here is a video recording of the live tutorial covering "Using a Built-In Package and Publishing Your Package":
-
+https://www.youtube.com/watch?v=44QUMCh2ZHU&embeds_referring_euri=https%3A%2F%2Fncar.github.io%2F&source_ve_path=Mjg2NjY
 
 .. raw:: html
 
@@ -2495,7 +2511,8 @@ specifically the :code:`log` method.
 
 .. seealso::
 
-   `More information on the Math module <https://docs.python.org/3/library/math.html>`_
+   More information on the Math module 
+   https://docs.python.org/3/library/math.html
 
 ..
 
