@@ -289,7 +289,8 @@ More information on Conda environments https://docs.conda.io/projects/conda/en/l
 
    .. seealso::
 
-      `More information on Git repositories <https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository>`_
+      More information on Git repositories 
+      https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository
 
    ..
 
@@ -353,7 +354,8 @@ More information on Conda environments https://docs.conda.io/projects/conda/en/l
 
     .. seealso::
 
-       `More information on git add <https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository>`_
+       More information on git add 
+       https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository
 
     ..
 
@@ -571,7 +573,8 @@ More information on Conda environments https://docs.conda.io/projects/conda/en/l
 
     .. seealso::
 
-       `More information on context managers <https://book.pythontips.com/en/latest/context_managers.html>`_
+       More information on context managers 
+       https://book.pythontips.com/en/latest/context_managers.html
 
     ..
 
@@ -677,10 +680,13 @@ also used fundamental git commands such as :bash:`git init`, :bash:`git status`,
 
 .. seealso::
 
-   - `Conda environments <https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html>`_
-   - `Git repositories <https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository>`_
-   - `The open() function <https://docs.python.org/3/library/functions.html#open>`_
-   - `Context managers <https://book.pythontips.com/en/latest/context_managers.html>`_
+    Conda environments 
+    https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
+    Git repositories 
+    https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository
+    The open() function 
+   https://docs.python.org/3/library/functions.html#open
+   Context managers <https://book.pythontips.com/en/latest/context_managers.html
 
 ..
 
@@ -797,8 +803,9 @@ Let's begin.
 
    .. seealso::
 
-      `More information on for-loops <https://book.pythontips.com/en/latest/for_-_else.html>`_
-      `More information on Python lists <https://docs.python.org/3/tutorial/datastructures.html#more-on-lists>`_
+      More information on for-loops 
+      https://book.pythontips.com/en/latest/for_-_else.html
+      More information on Python lists <https://docs.python.org/3/tutorial/datastructures.html#more-on-lists
 
    ..
 
@@ -922,7 +929,8 @@ Let's begin.
 
    .. seealso::
 
-      `More on Python dictionaries <https://docs.python.org/3/tutorial/datastructures.html#dictionaries>`_
+      More on Python dictionaries 
+      https://docs.python.org/3/tutorial/datastructures.html#dictionaries
 
    ..
 
@@ -966,7 +974,8 @@ Let's begin.
 
    .. seealso::
 
-      `More on Python numeric types (int, float, complex) <https://docs.python.org/3/library/stdtypes.html#numeric-types-int-float-complex>`_
+      More on Python numeric types (int, float, complex) 
+      https://docs.python.org/3/library/stdtypes.html#numeric-types-int-float-complex
 
    ..
 
@@ -1077,9 +1086,12 @@ keys and the command :python:`dict.get()`), and :python:`range`\s. You also lear
 
 .. seealso::
 
-   - `For-loops <https://book.pythontips.com/en/latest/for_-_else.html>`_
-   - `Lists <https://docs.python.org/3/tutorial/datastructures.html#more-on-lists>`_
-   - `Dictionaries <https://docs.python.org/3/tutorial/datastructures.html#dictionaries>`_
+   For-loops 
+   https://book.pythontips.com/en/latest/for_-_else.html
+   Lists 
+   https://docs.python.org/3/tutorial/datastructures.html#more-on-lists
+   Dictionaries 
+   https://docs.python.org/3/tutorial/datastructures.html#dictionaries
 
 ..
 
