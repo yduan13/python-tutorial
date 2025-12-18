@@ -1129,7 +1129,7 @@ https://www.youtube.com/watch?v=BerEf_3CsL8&t=2s
    
    Question and Answers from the live "Writing Functions" tutorial 
    https://ncar.github.io/xdev/posts/python-tutorial-faq-part-3/
-
+   https://github.com/yduan13/esds/blob/main/posts/2020/python-tutorial-faq-part-3.md 
 ..
 
 Let's begin.
@@ -1469,7 +1469,7 @@ to learn any package you think may be useful for your scientific analysis.
 
    Questions and Answers from the live "First Python Package" tutorials 
    https://ncar.github.io/xdev/posts/your-first-package-python-tutorial-faq
-
+   https://github.com/yduan13/esds/blob/main/posts/2021/your-first-package-python-tutorial-faq.md
 ..
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
