@@ -96,11 +96,11 @@ easily applied to actual atmospheric or oceanic workflows.
 We hope that this tailored approach to teaching and sharing computational tools
 effectively addresses the concerns and needs of the geoscience community.
 
-.. seealso::
+See also
 
-   - `Official Python 3 Documentation <https://docs.python.org/3/>`_
-   - `Official GitHub Documentation <https://help.github.com/en>`_
-   - `Official Git Documentation <https://git-scm.com/doc>`_
+   Official Python 3 Documentation https://docs.python.org/3/
+   Official GitHub Documentation https://help.github.com/en
+   Official Git Documentation https://git-scm.com/doc
 
 ..
 
