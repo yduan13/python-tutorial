@@ -209,7 +209,7 @@ https://www.youtube.com/watch?v=Jog7ybd6amw&t=3s
 .. seealso::
 
    `Questions and Answers from the live "Reading a .txt File" tutorial <https://ncar.github.io/xdev/posts/python-tutorial-faq/>`_.
-
+https://github.com/yduan13/esds/blob/main/posts/2020/python-tutorial-faq.md
 ..
 
 Let's begin.
