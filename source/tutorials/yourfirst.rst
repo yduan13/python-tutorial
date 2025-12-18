@@ -98,9 +98,12 @@ effectively addresses the concerns and needs of the geoscience community.
 
 See also
 
-   Official Python 3 Documentation https://docs.python.org/3/
-   Official GitHub Documentation https://help.github.com/en
-   Official Git Documentation https://git-scm.com/doc
+Official Python 3 Documentation 
+https://docs.python.org/3/
+Official GitHub Documentation 
+https://help.github.com/en
+Official Git Documentation 
+https://git-scm.com/doc
 
 ..
 
