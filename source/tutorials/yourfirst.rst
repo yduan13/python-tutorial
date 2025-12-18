@@ -261,7 +261,7 @@ Let's begin.
 
    .. seealso::
 
-      `More information on Conda environments <https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html>`_
+More information on Conda environments https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
 
    ..
 
